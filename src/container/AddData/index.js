@@ -55,7 +55,7 @@ function AddData() {
         <>
         <Navbar />
         <h1 className='container text-center display-5 mt-3 my-3 text-warning'>Add Data</h1>
-        <div className='container border border-dark w-50'>
+        <div className='container border border-dark w-50 bg-dark text-white'>
         <form>
             <div className="mb-3 mt-3">
                 <label className="form-label">Name<span className='text-danger h6'>*</span></label>
